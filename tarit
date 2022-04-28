@@ -1,0 +1,3 @@
+rm $USER.tar $USER.tar.gz
+tar cvf $USER.tar *
+gzip $USER.tar
